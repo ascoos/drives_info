@@ -11,9 +11,9 @@ Unfortunately, the configuration in `/conf/config.php` must be done manually.
 
 ## Installation
 
-Κατεβάστε και εγκαταστήστε το Ascoos Framework 24 από τα [Github](https://github.com/ascoos/afw) - [PHPClasses](https://www.phpclasses.org/package/13408.html) - [Sourceforge](https://sourceforge.net/p/ascoos-fw/).
+Download and install Ascoos Framework 24 from [Github](https://github.com/ascoos/afw) - [PHPClasses](https://www.phpclasses.org/package/13408.html) - [Sourceforge](https://sourceforge.net/p/ascoos-fw/).
 
-Στο αρχείο index.php, προσαρμόστε το μονοπάτι ώστε να ταιριάζει με το μονοπάτι που βρίσκεται το Ascoos Framework 24.
+In the index.php file, adjust the path to match the path where the Ascoos Framework 24 is located.
 
 ```php
 // Load Ascoos Framework 24.
